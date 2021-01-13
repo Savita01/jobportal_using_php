@@ -72,9 +72,9 @@ INSERT INTO `candidate` (`id`, `firstname`, `lastname`, `gender`, `dob`, `mobile
 (5, 'savitasn', 'N', '', '', 2147483647, 's@gmail.com', 'all', 'all', 'Bangalore', '', 'asdf', 'fgh', '', 'fghj', 'hjk', 'hjk', '', '', 'fghjk', 'ghjk', 'hjk', 'ghjk', 'ghj', 'ghjk', 0, 'ghj', 'fghj', 0, 0),
 (6, 'savitasn', 'N', '', '', 2147483647, 's@gmail.com', 'all', 'all', 'Bangalore', '', 'asdf', 'fgh', '', 'fghj', 'hjk', 'hjk', '', '', 'fghjk', 'ghjk', 'hjk', 'ghjk', 'ghj', 'ghjk', 0, 'ghj', 'fghj', 2020, 0),
 (7, 'savitasn', 'N', '', '', 2147483647, 's@gmail.com', 'all', 'all', 'Bangalore', '', 'asdf', 'fgh', 'fghj', 'fghj', 'hjk', 'hjk', '', '', 'fghjk', 'ghjk', 'hjk', 'ghjk', 'ghj', 'ghjk', 0, 'ghj', 'fghj', 2020, 0),
-(8, 'savi', 'N', 'female', '1994', 987456123, 'Nelaguddas@gmail.com', 'all', 'all', 'Bangalore', 'Karnataka', 'asd', 'bcom', '', '', '', '', '', '', 'js,php,css', '', '', '', '', '', 0, '', '', 2020, 0),
-(9, 'savi', 'n', '', '', 987456123, 'Nelaguddas@gmail.com', 'all', 'all', 'Bangalore', '', 'asd', 'BSC', 'ELE', 'kar', 'Regular ', '2015', '', '', 'js,php,css,mysql,', 'csqure', 'bangalore', 'ac', 'sec', 'js,html,css,php,mysql', 5, '3 months', 'home services', 2020, 0),
-(15, 'Vinesh', 'R', 'male', '1992', 2147483647, 'vineshrt@gmail.com', '123456', '123456', 'Bangalore', 'Karnataka', 'ASD', 'BE', 'EC', 'VTU', 'Regular ', '2014', '', '', 'WEB TECH', 'TUFADO', 'bangalore', 'AC', 'SEC', 'WEB TECH', 5, '3 months', 'home services', 2020, 0),
+(8, 'savi', 'N', 'female', '2000', 987456123, 'Nelaguddas@gmail.com', 'all', 'all', 'Bangalore', 'Karnataka', 'asd', 'bcom', '', '', '', '', '', '', 'js,php,css', '', '', '', '', '', 0, '', '', 2020, 0),
+(9, 'savi', 'n', '', '', 987456123, 'Ns@gmail.com', 'all', 'all', 'Bangalore', '', 'asd', 'BSC', 'ELE', 'kar', 'Regular ', '2015', '', '', 'js,php,css,mysql,', 'csqure', 'bangalore', 'ac', 'sec', 'js,html,css,php,mysql', 5, '3 months', 'home services', 2020, 0),
+(15, 'Vi', 'R', 'male', '2001', 2147483647, 'vrt@gmail.com', '123456', '123456', 'Bangalore', 'Karnataka', 'ASD', 'BE', 'EC', 'VTU', 'Regular ', '2014', '', '', 'WEB TECH', 'TUFADO', 'bangalore', 'AC', 'SEC', 'WEB TECH', 5, '3 months', 'home services', 2020, 0),
 (17, '', '', '', '', 0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 0, '', '', 2020, 1),
 (18, 'savita', 'N', '', '', 0, 'nelaguddas@gmail.com', '123', '123', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 0, '', '', 2020, 0),
 (21, '', '', '', '', 0, '', '', '', '', '', '', '', '', '', '', '', '', '2-3', '', '', '', '', '', '', 0, '', '', 2021, 0);
@@ -101,7 +101,7 @@ CREATE TABLE `cand_reg` (
 --
 
 INSERT INTO `cand_reg` (`id`, `fullname`, `mobile`, `email`, `password`, `con_password`, `code`, `status`) VALUES
-(1, '', '9874561230', 'nelaguddas@gmail.com', 'all', 'all', 163204, ''),
+(1, '', '9874561230', 'ns@gmail.com', 'all', 'all', 163204, ''),
 (4, 'savitasn', '', 's@gmail.com', '$2y$10$fmtOHon5eYjxARbtkPf0ge4e47xB1KkYMUIrFva8IZG', '', 504506, 'notverified');
 
 -- --------------------------------------------------------
